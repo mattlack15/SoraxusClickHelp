@@ -1,0 +1,9 @@
+main: com.soraxus.clickhelp.SpigotClickHelp
+name: SoraxusClickHelp
+version: 1.0
+author: Gravitinos
+description: Help Plugin for Soraxus
+commands:
+  clickhelp:
+    description: Help command
+    usage: /<command>

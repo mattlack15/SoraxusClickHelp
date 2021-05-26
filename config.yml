@@ -1,0 +1,20 @@
+plugin-prefix: "&c&lHelp > &7"
+use-gui: false
+reroute-help-command: true
+
+help:
+  #An example
+  page1:
+    display-name: "&c&lFactions Help"
+    messages:
+      - ""
+      - "Factions help"
+      - ""
+  page2:
+    display-name: "&6&lPage 2 Help"
+    nestedPage1:
+      display-name: "&a&lNested Page 1 Help"
+      messages:
+        - ""
+        - "page 1 help but nested inside of page 2 help"
+        - ""
